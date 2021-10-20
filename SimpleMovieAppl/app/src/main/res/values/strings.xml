@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SimpleMovieAppl</string>
+    <string name="trending_movies">Trending Movies!</string>
+    <string name="weekly">Weekly</string>
+    <string name="api_key">20107899ce0156a77cf67fa102703da9</string>
+</resources>
